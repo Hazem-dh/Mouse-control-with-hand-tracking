@@ -1,3 +1,4 @@
+
 # mouse-control-with-hand-tracking
 
 ## About the project 
@@ -16,10 +17,11 @@ A program that lets you control your mouse with your hand using your pc webcam u
 
 ### hand map
 
+![mediapipe map](https://user-images.githubusercontent.com/58445913/129171734-eaefe7cb-49a2-4514-b462-a4981a8fa7a7.png)
 
 ### Left click
 
-Collide your thumb with your index finger ( 4 and 5 very close detection )
+Collide your thumb with your index finger ( 4 and 5 are very close detection )
 
 ### Right click
 
